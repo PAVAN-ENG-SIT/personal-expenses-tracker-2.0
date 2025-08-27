@@ -4,7 +4,7 @@ A simple web-based application built using HTML, CSS, and JavaScript to track yo
 
 #Features
 
-1.Add expenses with amount, category, description, date, and time
+1.Add expenses with amount , category,description,date and time
 
 2.View all your past expenses in a table format
 
